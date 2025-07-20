@@ -19,7 +19,7 @@
   <div id="result"></div>
   <script>
     const cities = ["Tokyo", "Paris", "Nairobi", "Sydney", "New York", "Reykjavik", "Mumbai", "London", "Moscow", "Rio de Janeiro"];
-    const apiKey = "4625efdcd57bb3f56d7b1cec93150d6b"; // ← Replace with your Met Office or OpenWeatherMap API key
+    const apiKey = "4625efdcd57bb3f56d7b1cec93150d6b";
     let actualTemp;
 
     function pickCityAndFetch() {
